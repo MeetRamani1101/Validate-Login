@@ -18,6 +18,7 @@ import com.basgeekball.awesomevalidation.ValidationStyle;
 import com.basgeekball.awesomevalidation.utility.RegexTemplate;
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 
+
 public class MainActivity extends AppCompatActivity {
     CheckBox checkBox;
     EditText Name,Mobile,Email,Password,ConfirmPassword;
